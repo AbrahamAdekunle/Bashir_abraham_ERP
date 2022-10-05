@@ -1,5 +1,6 @@
 import barcode
-from barcode.writer import ImageWriter
+# from barcode.writer import ImageWriter
+
 from io import BytesIO
 
 from django.db import models
